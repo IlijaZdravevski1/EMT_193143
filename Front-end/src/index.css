@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.list-group-item {
+  height: 60px;
+}
+
+.custom-container {
+  height: 3rem;
+  font-size: 1.1rem;
+  position: absolute;
+  bottom: 0;
+}
+
+.card-header {
+  color: #000;
+}
